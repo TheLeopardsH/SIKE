@@ -4,4 +4,4 @@
 
 **SIKE** is an isogeny-based key encapsulation suite based on pseudo-random walks in supersingular isogeny graphs, that was submitted to the NIST standardization process on post-quantum cryptography.(SIKE NIST)
 
-It is based on SIDH but it overcomes the use of Ephemeral keys which led to attack for extraction of keys in SIDH if same key is used a number of times.SIKE allows to use same key. 
+SIKE is based on SIDH but it overcomes the use of Ephemeral keys which led to attack for extraction of keys in SIDH if same key is used a number of times.SIKE allows to use same key. 
